@@ -1,26 +1,11 @@
 # vue-skills
 
-## Project setup
+## Welcome to my vue.js
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Simple Creation
 ```
 
-### Compiles and minifies for production
+### Update History
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+2018/10/03 first commit
 ```
